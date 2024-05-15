@@ -7,4 +7,5 @@ This repository contains multiple examples for using Debezium, e.g. configuratio
 
 ## Getting Started
 
-For getting started please check the [tutorial example](./tutorial).
+Getting started please check the [tutorial example](./tutorial).
+
